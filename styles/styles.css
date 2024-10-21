@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;  
+}
+
+.container {
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: space-between;
+}  
+
+.cart {
+    width: 60%;
+}
+
+.cart1 {
+    width: 40%;
+}
+
+.product {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+    
+    
